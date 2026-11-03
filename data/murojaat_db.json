@@ -1,0 +1,341 @@
+{
+  "inspectors": [
+    {
+      "id": "insp-1",
+      "name": "Ergashev Bobur Rustamovich",
+      "rank": "Katta leytenant",
+      "phone": "+998 90 345-12-88",
+      "region": "Toshkent shahri",
+      "district": "Yunusobod tumani",
+      "mahalla": "Bogʻishamol MFY",
+      "officeAddress": "Yunusobod tumani IIO FMB 4-sonli IIB, Bogʻishamol koʻchasi 14-uy",
+      "receptionHours": "Seshanba, Payshanba 16:00 - 19:00, Shanba 10:00 - 13:00",
+      "telegramUsername": "ergashev_uchastkavoy",
+      "telegramChatId": 10459281,
+      "activeCases": 4,
+      "resolvedCases": 38
+    },
+    {
+      "id": "insp-2",
+      "name": "Karimov Jasur Alisherovich",
+      "rank": "Mayor",
+      "phone": "+998 97 712-40-50",
+      "region": "Toshkent shahri",
+      "district": "Chilonzor tumani",
+      "mahalla": "Nafosat MFY",
+      "officeAddress": "Chilonzor tumani IIO FMB 2-sonli IIB, Bunyodkor shox koʻchasi 22-uy",
+      "receptionHours": "Dushanba, Chorshanba, Juma 15:00 - 18:00",
+      "telegramUsername": "karimov_chilonzor",
+      "activeCases": 6,
+      "resolvedCases": 52
+    },
+    {
+      "id": "insp-3",
+      "name": "Tursunov Sanjar Baxtiyorovich",
+      "rank": "Kapitan",
+      "phone": "+998 93 501-88-21",
+      "region": "Toshkent shahri",
+      "district": "Mirzo Ulugʻbek tumani",
+      "mahalla": "Alpomish MFY",
+      "officeAddress": "Mirzo Ulugʻbek tumani IIO FMB 1-sonli IIB, Feruza mavzesi 7-uy",
+      "receptionHours": "Seshanba, Payshanba 17:00 - 20:00",
+      "telegramUsername": "tursunov_inspektor",
+      "activeCases": 2,
+      "resolvedCases": 29
+    },
+    {
+      "id": "insp-4",
+      "name": "Rahimov Sherzod Olimovich",
+      "rank": "Katta leytenant",
+      "phone": "+998 91 664-90-12",
+      "region": "Samarqand viloyati",
+      "district": "Samarqand shahri",
+      "mahalla": "Bogʻi Baland MFY",
+      "officeAddress": "Samarqand sh. IIO FMB 3-sonli IIB, Registon koʻchasi 45-uy",
+      "receptionHours": "Har kuni 16:00 - 19:00",
+      "telegramUsername": "rahimov_samarqand",
+      "activeCases": 3,
+      "resolvedCases": 41
+    },
+    {
+      "id": "insp-5",
+      "name": "Yusupov Dilshod Mirzayevich",
+      "rank": "Leytenant",
+      "phone": "+998 94 220-11-77",
+      "region": "Farg'ona viloyati",
+      "district": "Fargʻona shahri",
+      "mahalla": "Oybek MFY",
+      "officeAddress": "Fargʻona sh. IIB 2-sonli tayanch punkti, Oybek koʻchasi 9-uy",
+      "receptionHours": "Dushanba, Payshanba 15:00 - 18:00",
+      "activeCases": 5,
+      "resolvedCases": 33
+    },
+    {
+      "id": "insp-1793716649235",
+      "name": "Alimov Sardor Baxtiyorovich",
+      "rank": "Katta leytenant",
+      "phone": "+998 90 123-45-67",
+      "region": "Andijon viloyati",
+      "district": "Jalaquduq tumani",
+      "mahalla": "Yangi hayot MFY",
+      "officeAddress": "Jalaquduq tumani IIO FMB tayanch punkti, Yangi hayot MFY hududi",
+      "receptionHours": "Har kuni 16:00 - 19:00",
+      "activeCases": 1,
+      "resolvedCases": 15
+    }
+  ],
+  "appeals": [
+    {
+      "id": "MUR-2026-2328",
+      "citizenName": "moydinova robiya",
+      "telegramUsername": "@Rv524",
+      "telegramUserId": 5606117517,
+      "region": "Andijon viloyati",
+      "district": "Jalaquduq tumani",
+      "mahalla": "Yangi hayot MFY",
+      "status": "Yangi",
+      "media": {
+        "type": "video",
+        "fileId": "BAACAgIAAxkBAAMIaunWzftwkFOIZHr4H7RYJD4CKkIAAqmpAAK1N0lLtTdovNe90dw9BA",
+        "url": "https://api.telegram.org/file/bot9205097076:AAGQb7_0ITYa8xWqME_y4Mbi8nPME_tb0cI/videos/file_1.mp4",
+        "duration": 28,
+        "mimeType": "video/mp4"
+      },
+      "textDescription": "Video murojaat",
+      "createdAt": "2026-11-03T14:37:30.401Z",
+      "updatedAt": "2026-11-03T15:04:43.435Z",
+      "assignedInspectorId": "insp-1793716649235",
+      "assignedInspectorName": "Alimov Sardor Baxtiyorovich (Katta leytenant)",
+      "inspectorPhone": "+998 90 123-45-67",
+      "aiAnalysis": {
+        "summary": "Video murojaat",
+        "transcription": "Murojaat tavsifi: Video murojaat",
+        "category": "Mayda bezorilik va jamoat tartibi",
+        "urgency": "O'rta",
+        "mjtArticle": "MJtK 183-modda: Mayda bezorilik (jamoat joylarida uyatli soʻzlar bilan soʻkinish, haqoratomuz tegajaklik qilish)",
+        "actionRecommendation": "Fuqaro bilan shaxsan uchrashish, murojaatda ko'rsatilgan vajlarni joyiga chiqib o'rganish.",
+        "responseDraft": "Hurmatli moydinova robiya, arizangiz qabul qilindi. Mahalla profilaktika inspektori zudlik bilan o'rganib chiqadi.",
+        "sentiment": "Talabchan",
+        "analyzedAt": "2026-11-03T15:00:53.195Z"
+      },
+      "responses": [
+        {
+          "id": "resp-1793716650401",
+          "sender": "system",
+          "message": "Murojaat qabul qilindi va Yangi hayot MFY profilaktika inspektori Alimov Sardor Baxtiyorovichga yo'naltirildi.",
+          "timestamp": "2026-11-03T14:37:30.401Z",
+          "deliveredViaTelegram": true
+        }
+      ],
+      "history": [
+        {
+          "action": "Murojaat Telegram boti orqali qabul qilindi (Video 🎬)",
+          "timestamp": "2026-11-03T14:37:30.401Z",
+          "actor": "Telegram Bot"
+        },
+        {
+          "action": "AI Tahlil: Jamoat tartibi va osoyishtalik (O'rta)",
+          "timestamp": "2026-11-03T14:37:30.401Z",
+          "actor": "Gemini AI"
+        },
+        {
+          "action": "Inspektor huquqiy moddani belgiladi: MJtK 183-modda: Mayda bezorilik (jamoat joylarida uyatli soʻzlar bilan soʻkinish, haqoratomuz tegajaklik qilish)",
+          "timestamp": "2026-11-03T15:04:43.435Z",
+          "actor": "Profilaktika inspektori"
+        }
+      ]
+    },
+    {
+      "id": "MUR-2026-1042",
+      "citizenName": "Abdullayev Farxod Akramovich",
+      "citizenPhone": "+998 90 912-34-56",
+      "telegramUsername": "farxod_a",
+      "telegramUserId": 582194012,
+      "region": "Toshkent shahri",
+      "district": "Yunusobod tumani",
+      "mahalla": "Bogʻishamol MFY",
+      "status": "Yangi",
+      "media": {
+        "type": "video_note",
+        "duration": 28,
+        "mimeType": "video/mp4"
+      },
+      "textDescription": "Tungi soat 01:30 da qo'shni hovlida baland musiqali shovqin va janjal bo'lyapti, bolalar uxlay olmayapti.",
+      "createdAt": "2026-11-03T03:40:12Z",
+      "updatedAt": "2026-11-03T03:40:12Z",
+      "assignedInspectorId": "insp-1",
+      "assignedInspectorName": "Ergashev Bobur Rustamovich (Katta leytenant)",
+      "inspectorPhone": "+998 90 345-12-88",
+      "aiAnalysis": {
+        "summary": "Tungi vaqtda baland ovozda musiqa qo'yish va jamoat tartibini buzish, tinchlikka putur yetkazish holati.",
+        "category": "Tinchlik va osoyishtalikni buzish",
+        "urgency": "Yuqori (Shoshilinch)",
+        "mjtArticle": "MJtK 192-modda: Maishiy shovqinga qarshi kurashish talablarini buzish",
+        "actionRecommendation": "Zudlik bilan xonadonga borib ogohlantirish berish, takrorlangan taqdirda ma'muriy bayonnoma rasmiylashtirish.",
+        "responseDraft": "Hurmatli Farxod aka, arizangiz qabul qilindi. Profilaktika inspektori zudlik bilan ushbu manzilga yo'naltirildi.",
+        "sentiment": "Xavotirli",
+        "analyzedAt": "2026-11-03T03:40:40Z"
+      },
+      "inspectorNotes": "",
+      "responses": [
+        {
+          "id": "resp-1",
+          "sender": "system",
+          "message": "Murojaat qabul qilindi va Bogʻishamol MFY profilaktika inspektoriga yo'naltirildi.",
+          "timestamp": "2026-11-03T03:40:15Z",
+          "deliveredViaTelegram": true
+        }
+      ],
+      "history": [
+        {
+          "action": "Murojaat Telegram boti orqali qabul qilindi",
+          "timestamp": "2026-11-03T03:40:12Z",
+          "actor": "Telegram Bot"
+        },
+        {
+          "action": "Gemini AI tahlil oʻtkazdi (MJtK 192-modda)",
+          "timestamp": "2026-11-03T03:40:40Z",
+          "actor": "Gemini AI Agent"
+        }
+      ]
+    },
+    {
+      "id": "MUR-2026-1041",
+      "citizenName": "Karimova Nargiza Shuhratovna",
+      "citizenPhone": "+998 93 421-00-19",
+      "telegramUsername": "nargiza_k",
+      "telegramUserId": 419201993,
+      "region": "Toshkent shahri",
+      "district": "Chilonzor tumani",
+      "mahalla": "Nafosat MFY",
+      "status": "Jarayonda",
+      "media": {
+        "type": "voice",
+        "duration": 45,
+        "mimeType": "audio/ogg"
+      },
+      "textDescription": "Ko'p qavatli uyimiz oldidagi yo'lakka noqonuniy temir to'siq o'rnatib qo'yilgan, tez yordam mashinasi kira olmayapti.",
+      "createdAt": "2026-11-02T19:15:00Z",
+      "updatedAt": "2026-11-03T02:00:00Z",
+      "assignedInspectorId": "insp-2",
+      "assignedInspectorName": "Karimov Jasur Alisherovich (Mayor)",
+      "inspectorPhone": "+998 97 712-40-50",
+      "aiAnalysis": {
+        "summary": "Ko'p qavatli uylar oldida umumiy foydalanishdagi yo'lakni noqonuniy to'sib qo'yish holati.",
+        "category": "Yo'l va jamoat maydonlarini to'sish",
+        "urgency": "O'rta",
+        "mjtArticle": "MJtK 163-modda: Shaharlar va boshqa aholi punktlarida jamoat foydalanishidagi yerlarni o'zboshimchalik bilan egallash",
+        "actionRecommendation": "Uy boshqaruvchisi va tuman obodonlashtirish bo'limi bilan birgalikda to'siqni olib tashlash va noqonuniy o'rnatuvchini aniqlash.",
+        "responseDraft": "Hurmatli Nargiza opa, arizangiz o'rganilmoqda. Tuman obodonlashtirish bo'limi bilan to'siqni demontaj qilish ishlari rejalashtirildi.",
+        "sentiment": "Talabchan",
+        "analyzedAt": "2026-11-02T19:16:10Z"
+      },
+      "inspectorNotes": "Fuqaro bilan uchrashildi, tuman hokimligiga xat chiqarildi.",
+      "responses": [
+        {
+          "id": "resp-2",
+          "sender": "system",
+          "message": "Murojaat qabul qilindi.",
+          "timestamp": "2026-11-02T19:15:05Z",
+          "deliveredViaTelegram": true
+        },
+        {
+          "id": "resp-3",
+          "sender": "inspector",
+          "message": "Assalomu alaykum Nargiza opa. Ushbu to'siq bo'yicha tuman mutasaddi idoralariga taqdimnoma kiritildi. 3 kun ichida to'siq olib tashlanadi.",
+          "timestamp": "2026-11-03T02:00:00Z",
+          "deliveredViaTelegram": true
+        }
+      ],
+      "history": [
+        {
+          "action": "Murojaat Telegram boti orqali qabul qilindi",
+          "timestamp": "2026-11-02T19:15:00Z",
+          "actor": "Telegram Bot"
+        },
+        {
+          "action": "Inspektor holatni 'Jarayonda' ga o'zgartirdi",
+          "timestamp": "2026-11-03T01:50:00Z",
+          "actor": "Mayor Karimov J.A."
+        }
+      ]
+    },
+    {
+      "id": "MUR-2026-1040",
+      "citizenName": "Qodirov Sardor Jamshidovich",
+      "citizenPhone": "+998 94 112-99-44",
+      "telegramUsername": "sardor_q",
+      "telegramUserId": 611299440,
+      "region": "Toshkent shahri",
+      "district": "Mirzo Ulugʻbek tumani",
+      "mahalla": "Alpomish MFY",
+      "status": "Hal qilindi",
+      "media": {
+        "type": "video",
+        "duration": 35,
+        "mimeType": "video/mp4"
+      },
+      "textDescription": "Bolalar maydonchasiga axlat to'planib qolgan va singan shisha idishlar tashlab ketilgan, xavfsizlikka tahdid.",
+      "createdAt": "2026-11-01T10:10:00Z",
+      "updatedAt": "2026-11-02T14:30:00Z",
+      "assignedInspectorId": "insp-3",
+      "assignedInspectorName": "Tursunov Sanjar Baxtiyorovich (Kapitan)",
+      "inspectorPhone": "+998 93 501-88-21",
+      "aiAnalysis": {
+        "summary": "Bolalar maydonchasida obodonlashtirish qoidalarini buzish va xavfli chiqindilar to'planishi.",
+        "category": "Obodonlashtirish va ekologik tartib",
+        "urgency": "O'rta",
+        "mjtArticle": "MJtK 161-modda: Shaharlar va boshqa aholi punktlarining qoidalarini buzish",
+        "actionRecommendation": "Obodonlashtirish xizmatini jalb qilish va tungi patrul nazoratini kuchaytirish.",
+        "responseDraft": "Maydoncha to'liq tozalandi va kechki vaqtda profilaktika nazorati kuchaytirildi.",
+        "sentiment": "Norozi",
+        "analyzedAt": "2026-11-01T10:11:00Z"
+      },
+      "inspectorNotes": "Maydoncha MFY faollari va 'Toza hudud' xodimlari bilan tozalab chiqildi. Jarayon yakunlandi.",
+      "responses": [
+        {
+          "id": "resp-4",
+          "sender": "system",
+          "message": "Murojaat qabul qilindi.",
+          "timestamp": "2026-11-01T10:10:05Z",
+          "deliveredViaTelegram": true
+        },
+        {
+          "id": "resp-5",
+          "sender": "inspector",
+          "message": "Assalomu alaykum Sardorbek. Maydoncha toʻliq tozalandi va kameralar orqali nazoratga olindi.",
+          "timestamp": "2026-11-02T14:30:00Z",
+          "deliveredViaTelegram": true
+        }
+      ],
+      "history": [
+        {
+          "action": "Murojaat qabul qilindi",
+          "timestamp": "2026-11-01T10:10:00Z",
+          "actor": "Telegram Bot"
+        },
+        {
+          "action": "Muammo bartaraf etildi, holat 'Hal qilindi'",
+          "timestamp": "2026-11-02T14:30:00Z",
+          "actor": "Kapitan Tursunov S.B."
+        }
+      ]
+    }
+  ],
+  "botStates": {
+    "5606117517": {
+      "chatId": 5606117517,
+      "step": "awaiting_media",
+      "updatedAt": 1793716627261,
+      "citizenName": "moydinova robiya",
+      "region": "Andijon viloyati",
+      "district": "Jalaquduq tumani",
+      "mahalla": "Yangi hayot MFY"
+    }
+  },
+  "adminChatIds": [],
+  "stats": {
+    "totalBotUpdates": 6,
+    "lastBotUpdate": "2026-11-03T14:37:26.015Z"
+  }
+}

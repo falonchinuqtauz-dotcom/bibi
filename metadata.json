@@ -1,0 +1,6 @@
+{
+  "name": "AI Murojaat — Mahalla Profilaktika Inspektorlari Portali",
+  "description": "Aholi va mahalla profilaktika inspektorlari (uchastkavoylari) o'rtasidagi video/audio arizalar, kruglyash murojaatlar va Telegram bot boshqaruv tizimi.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
